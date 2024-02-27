@@ -5,7 +5,7 @@ on:
     inputs:
       ROM_URL:
         description: "ROM_URL"
-        default: "https://sourceforge.net/projects/muralivijay/files/ROMS/XIAOMI/SPES/CRDROID/V9/Vanilla/crDroidAndroid-13.0-20240225-spes-v9.14-VANILLA.zip/download"
+        default: "https://deac-ams.dl.sourceforge.net/project/muralivijay/ROMS/XIAOMI/SPES/CRDROID/V9/Vanilla/crDroidAndroid-13.0-20240225-spes-v9.14-VANILLA.zip"
       DEVICE_NAME:
         description: "DEVICE_NAME"
         default: "spes"
